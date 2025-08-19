@@ -21,7 +21,7 @@ Higher education governance, fiduciary duties, epistemic justice, epistemic clie
 
 ### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Higher-Education-Governance-in-Crisis/master/Kahl_P_Rot_at_the_Heart_of_Higher_Education_25_July_2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Higher-Education-Governance-in-Crisis/master/Kahl_P_Higher_Education_Governance_in_Crisis_v2_19-AUG-2025.pdf)
 
 Cite this work:
 
