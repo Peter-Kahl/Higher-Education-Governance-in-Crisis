@@ -6,8 +6,7 @@
 
 ![alt text](https://github.com/Peter-Kahl/Higher-Education-Governance-in-Crisis/blob/main/cubes_3_crisis.jpg?raw=true)
 
-by Peter Kahl, 25 July 2025\
-2nd edition 19 August 2025
+by Peter Kahl, 25 July 2025
 
 ### Abstract
 
