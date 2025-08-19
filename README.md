@@ -1,6 +1,8 @@
 # Higher Education Governance in Crisis
 
-#### Nationalisation, Fiduciary Reform, and Epistemic Justice in UK Universities
+### Nationalisation, Fiduciary Reform, and Epistemic Justice in UK Universities
+
+#### An analysis of fiduciary opacity, trustee conflicts, and epistemic clientelism in UK higher education, with proposals for nationalisation and comprehensive fiduciary-epistemic reforms.
 
 ![alt text](https://github.com/Peter-Kahl/Higher-Education-Governance-in-Crisis/blob/main/cubes_3_crisis.jpg?raw=true)
 
