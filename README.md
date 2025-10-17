@@ -2,7 +2,7 @@
 
 ### Nationalisation, Fiduciary Reform, and Epistemic Justice in UK Universities
 
-by Peter Kahl, 25 July 2025
+by Peter Kahl, 2025-07-25; v2: 2025-08-19
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -26,8 +26,8 @@ Kahl, P. (2025). _Higher Education Governance in Crisis: Nationalisation, Fiduci
 
 ## Publisher & Licence
 
-First published in Great Britain by Peter Kahl on 25 July 2025.\
-2nd edition published by Lex et Ratio Ltd on 19 August 2025.
+First published in Great Britain by Peter Kahl, 2025-07-25.\
+v2 published by Lex et Ratio Ltd, 2025-08-19.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
